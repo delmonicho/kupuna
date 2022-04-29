@@ -1,0 +1,15 @@
+.expense-tracker-page {
+    background-color: #F4D35E;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+}
+
+.card {
+    width: 30em;
+    height: 15em;
+    background-color: #EE964B;
+    border-radius: 6px;
+    padding: 10px 30px;
+    margin: 20px;
+}
